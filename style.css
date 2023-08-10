@@ -1,0 +1,35 @@
+* {
+    background-color: #032152;
+    font-family: 'Poppins', cursive;
+    color: #ffff;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    display: inline-block;
+    text-align: center;
+}
+
+h1 {
+    margin: 30px;
+    text-shadow: 4px 0 #232931;
+    font-size: 6rem;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+img {
+    width: 85%;
+}
+
+footer {
+    text-align: center;
+    margin-top: 15%;
+}
