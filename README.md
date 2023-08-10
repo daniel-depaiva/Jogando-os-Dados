@@ -1,4 +1,4 @@
-# # Jogando-os-Dados
+ # Jogando-os-Dados
 
 
 
@@ -12,4 +12,5 @@
 
   ## Imagem do projeto pronto
 
+  ![image](https://github.com/daniel-depaiva/Jogando-os-Dados/assets/105226619/58526092-573f-48c6-a0f6-7ee51ff588e5)
   
